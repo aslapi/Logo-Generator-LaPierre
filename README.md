@@ -13,4 +13,4 @@ Clone the repository on my GitHub account titled Logo-Generator-LaPierre. Run "n
 
 ## Usage
 
-Demo: 
+Demo: [text](https://app.screencastify.com/v3/watch/kuCyXjRU2ZhA7cdlHGtl)
