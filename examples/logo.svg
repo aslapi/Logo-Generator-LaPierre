@@ -1,6 +1,6 @@
 
     <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">    
-     <polygon points="100,20 180,180 20,180" fill="Black" />
-     <text x="100" y="140" font-size="30" text-anchor="middle" fill="Red">Tri</text>
+     <polygon points="100,20 180,180 20,180" fill="black" />
+     <text x="100" y="140" font-size="30" text-anchor="middle" fill="red">ale</text>
      </svg>
         
